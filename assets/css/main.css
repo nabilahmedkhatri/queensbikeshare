@@ -4720,4 +4720,13 @@ input, select, textarea {
 	li.book_now {
 		background-color: #ff0080;
 	}
+	.banner_message {
+		height: 40px;
+		width: 100%;
+		background-color: black;
+		color: white;
+		text-align: center;
+		z-index: 9999;
+		position: fixed;
+	}
 	
